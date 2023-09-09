@@ -10,3 +10,8 @@ This project is a 3D dungeon platformer game made in Unity, where the player mus
 ==========================================================
 
 This is my second 3D Unity platformer, following The Dungeon; to expand on my first game, I worked with more intricate obstacles and triggers, along with a save point feature, and I experimented with different lighting types and placements. I designed and created the arena using assets from the Unity Asset Store, and I also worked with scripting, GUI, animations, textures, audio, lighting, and editing 3D models (sculpting, posing, modifying vertices, and arranging scenes). The repository contains a link to download the build and instructions to play the game alongside the source code, and **[this page](https://bensta.epizy.com/fortress/)** also features the download link with some images of the game and a list of assets I used.
+
+[Castle of the Clouds](https://github.com/benstamour/castle-of-the-clouds)
+==========================================================================
+
+This is my third Unity 3D platformer project; to improve upon my previous games, I created new types of obstacles and experimented with different assets to make better-looking menus and scenes. I designed and created the arena using assets from the Unity Asset Store, and I also worked with scripting, GUI, animations, textures, audio, lighting, and editing 3D models (sculpting, posing, and modifying vertices). The repository contains a link to download the build and instructions to play the game alongside the source code, and **[this page](https://bensta.epizy.com/castle/)** also features the download link with some images of the game and a list of assets I used.
